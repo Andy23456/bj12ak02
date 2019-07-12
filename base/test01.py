@@ -17,5 +17,3 @@ print("获取模块所在目录：", os.getcwd())
 sys.path.append(os.getcwd())
 print("默认path目录：", sys.path)
 
-a = 1
-print(a)

@@ -25,3 +25,7 @@ class TestLogin(object):
     def test_login(self, phone, pwd):
         # 调用登录业务方法
         self.login.page_login(phone, pwd)
+		print("你好中国")
+		
+		
+
